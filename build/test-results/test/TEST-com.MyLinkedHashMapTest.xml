@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.MyLinkedHashMapTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-03T16:08:00" hostname="DESKTOP-C7IF6UF" time="0.027">
+  <properties/>
+  <testcase name="giveASentenceWhenWouldAreAddToListShouldReturnParanoidFrequency" classname="com.MyLinkedHashMapTest" time="0.027"/>
+  <system-out><![CDATA[MyLinkedListNode{[com.MyLinkedList1@381f94bc, com.MyLinkedList1@6ea6a05, com.MyLinkedList1@5585f9b, null, null, com.MyLinkedList1@6c08fb45, com.MyLinkedList1@2876280c, com.MyLinkedList1@7d99d545, com.MyLinkedList1@3a7af9ea, com.MyLinkedList1@1103ff33, null]}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
